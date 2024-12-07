@@ -1,0 +1,6 @@
+Name,Age,Salary
+Alice,25.0,50000.0
+Bob,30.0,60000.0
+Charlie,,55000.0
+David,22.0,
+,35.0,70000.0
